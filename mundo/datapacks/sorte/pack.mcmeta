@@ -1,0 +1,13 @@
+ {
+       "pack": {
+           "pack_format": 6,
+           "description": "Foice e espada!!"
+       }
+   }
+
+tick.json Text:
+{
+ "values": [
+ "example_pack:loop"
+ ]
+}

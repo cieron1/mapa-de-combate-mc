@@ -1,0 +1,13 @@
+ {
+       "pack": {
+           "pack_format": 6,
+           "description": "The gold is goldier than before"
+       }
+   }
+
+tick.json Text:
+{
+ "values": [
+ "example_pack:loop"
+ ]
+}
