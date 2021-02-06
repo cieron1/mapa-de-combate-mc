@@ -8,5 +8,23 @@
 
 ## A fazer
 
-- [ ] s
-- [ ] s
+- [ ] Lutadores
+  - [ ] Redstoner Alado
+  - [ ] Arvoresco
+  - [ ] Vivo
+  - [ ] Calculista
+  - [ ] ?
+  - [ ] ?
+  - [x] Os outros 18 lutadores
+- [ ] Arenas / Mapas
+  - [x] 5 mapas customizáveis
+  - [x] 16 outros mapas
+  - [ ] 6 mapas restantes
+- [ ] Outros
+  - [x] Clima e tempo
+  - [x] Pulos duplos
+  - [x] Gravidade
+  - [x] Tempo máximo de partida
+  - [ ] Músicas
+  - [x] Minigame: Guerreiros da lava
+  - [x] Minigame: Matador de vacas
