@@ -74,6 +74,22 @@
 
 # Mapas
 
+## 0-0
+
+![Lobby](./imagens/mapas/Lobby.png)
+
+## Seleção de lutadores
+
+![Seleção de lutadores](./imagens/mapas/Lutadores.png)
+
+## Área de treinamento
+
+![Treinamento](./imagens/mapas/Treinamento.png)
+
+## Visualização e seleção de mapas
+
+![Visualização e seleção de mapas](./imagens/mapas/Mapas.png)
+
 ## Mapa 1: Donut da batalha
 
 ![Donut da batalha](./imagens/mapas/Donut.png)
