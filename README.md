@@ -18,8 +18,8 @@
   - [ ] Vivo
   - [ ] Calculista
   - [ ] ?
-  - [ ] ?
   - [ ] ??
+  - [ ] ???
   - [x] Os outros 18 lutadores
 - [ ] Arenas / Mapas
   - [x] 5 mapas customizáveis
