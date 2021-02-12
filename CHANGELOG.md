@@ -3,6 +3,7 @@
 ### 1.1.0
 
 Agora, Senhor das almas, Elétrico e Morte têm seus itens na área de treinamento, "área de desenvolvedores" agora pode ser entrada por todos e se chama "resetar pontuações", Elétrico tem sua visualização de personagem.
+Adicionado o mapa "Palácio Aquático".
 Explosivo: adicionado "kamikaze", ataque que começa a carregar quando sua vida está em 4 ou menos, demora 5 segundos (esse tempo não reseta quando sua vida fica acima de 4), e quando carrega, pode ser usado a qualquer momento.
 O ataque invoca um fogo de artifício com 3 explosões grandes e 2 pequenas, ele explode instantaneamente, e dá por volta de 14 de dano à entidades próximas.
 Árido: regeneração passiva: nível 1 -> nível 3. Defesa: 13 -> 12. Adicionado balde de leite.
