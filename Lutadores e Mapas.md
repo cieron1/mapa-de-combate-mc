@@ -27,7 +27,7 @@ Vida:20, Dano:1.3, Velocidade:0.13, Velocidade de ataque:3.7, Resistência a rep
 ## 4. Árido
 
 #### Atributos:
-Vida:24, Dano:1, Velocidade:0.09, Velocidade de ataque:3.9, Resistência a repulsão:0.7 e defesa:13.
+Vida:24, Dano:1, Velocidade:0.09, Velocidade de ataque:3.9, Resistência a repulsão:0.7 e defesa:12.
 
 ![Hotbar](./imagens/lutadores/Arido-hotbar.png)
 ![Árido](./imagens/lutadores/Árido.png)
@@ -139,7 +139,7 @@ Vida:50, Dano:1, Velocidade:0.17, Velocidade de ataque:4, Resistência a repuls�
 ## 18. Elétrico
 
 #### Atributos:
-Vida:16, Dano:1, Velocidade:0.163, Velocidade de ataque:4, Resistência a repulsão:0.6 e defesa:9.
+Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repulsão:0.6 e defesa:7.
 
 ![Hotbar](./imagens/lutadores/Elet-hotbar.png)
 ![Elétrico](./imagens/lutadores/Elétrico.png)

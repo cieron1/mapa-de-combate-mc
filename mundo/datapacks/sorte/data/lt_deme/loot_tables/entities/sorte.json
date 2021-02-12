@@ -22,12 +22,8 @@
             "quality": 10,
             "functions": [
               {
-                "function": "set_data",
-                "data": 1
-              },
-              {
                 "function": "set_nbt",
-                "tag": "display:{Name:'{\"text\":\"+1.5 p\/ 15s\",\"color\":\"aqua\",\"italic\":false}',Lore:['{\"text\":\"Quando largado, d\u00e1 for\u00e7a\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"1 por 15 segundos.\",\"color\":\"dark_purple\",\"italic\":false}']}"
+                "tag": "display:{Name:'{\"text\":\"+1.5 p\/ 9s\",\"color\":\"aqua\",\"italic\":false}',Lore:['{\"text\":\"Quando largado, d\u00e1 for\u00e7a\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"1 por 9 segundos.\",\"color\":\"dark_purple\",\"italic\":false}']}"
               }
             ]
           }
