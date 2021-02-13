@@ -23,8 +23,8 @@
   - [x] Os outros 18 lutadores
 - [ ] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 16 outros mapas
-  - [ ] 6 mapas restantes
+  - [x] 17 outros mapas
+  - [ ] 5 mapas restantes
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas
