@@ -225,3 +225,7 @@ Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repuls
 ## Mapa 16: Cruz Grega Circulada (CGC)
 
 ![CGC](./imagens/mapas/CGC.png)
+
+## Mapa 17: Piscina
+
+![Piscina](./imagens/mapas/Piscina.png)

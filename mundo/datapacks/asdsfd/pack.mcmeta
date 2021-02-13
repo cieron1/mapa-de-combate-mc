@@ -1,0 +1,13 @@
+ {
+       "pack": {
+           "pack_format": 6,
+           "description": "Sorte!!"
+       }
+   }
+
+tick.json Text:
+{
+ "values": [
+ "example_pack:loop"
+ ]
+}
