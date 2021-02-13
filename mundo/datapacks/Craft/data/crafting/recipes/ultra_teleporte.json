@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:purple_concrete",
+        "count": 2
+    },
+    "group": "stuff"
+}
