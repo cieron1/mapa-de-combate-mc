@@ -1,5 +1,10 @@
 ## Atualizações
 
+### 1.1.1
+
+Árido: Regeneração passiva: nível 3 -> 2. Consertado bug em que essa regeneração não funcionaria.
+Fim: adicionado shulkerismo: invoca uma bala de shulker 3 blocos acima de todos a 10 blocos de distância (menos tú). cooldown: 25s e quando o item é usado enquanto não está carregado, recupera 1/20s do ataque.
+
 ### 1.1.0
 
 Agora, Senhor das almas, Elétrico e Morte têm seus itens na área de treinamento, "área de desenvolvedores" agora pode ser entrada por todos e se chama "resetar pontuações", Elétrico tem sua visualização de personagem.
