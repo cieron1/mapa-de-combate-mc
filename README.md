@@ -14,7 +14,7 @@
 
 - [ ] Lutadores
   - [ ] Redstoner Alado
-  - [ ] Arvoresco
+  - [x] Arvoresco
   - [ ] Vivo
   - [ ] Calculista
   - [ ] ?

@@ -144,6 +144,14 @@ Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repuls
 ![Hotbar](./imagens/lutadores/Elet-hotbar.png)
 ![Elétrico](./imagens/lutadores/Elétrico.png)
 
+## 19. Arvoresco
+
+#### Atributos:
+Vida:20, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.2 e defesa:7.
+
+![Hotbar](./imagens/lutadores/Arvoresco-hotbar.png)
+![Arvoresco](./imagens/lutadores/Arvoresco.png)
+
 # Mapas
 
 ## 0-0

@@ -1,5 +1,11 @@
 ## Atualizações
 
+### 2.0.0
+
+Adicionado Arvoresco (com tutorial e visualização de personagem).
+
+Corrigido erro no qual quando você sai de uma partida (sem ter marcado a quantidade de tempo padrão) e quando tentar entrar em outra, o tempo é marcado como 0 segundos (agora, é -1, que lhe permite jogar sem tempo).
+
 ### 1.1.1
 
 Árido: Regeneração passiva: nível 3 -> 2. Consertado bug em que essa regeneração não funcionaria.
