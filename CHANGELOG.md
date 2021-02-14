@@ -1,6 +1,6 @@
 ## Atualizações
 
-### 2.0.0
+### 1.2.0
 
 Adicionado Arvoresco (com tutorial e visualização de personagem).
 
