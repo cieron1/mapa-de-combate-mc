@@ -37,3 +37,4 @@
   - [x] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas
+    - [ ] Tiro ao alvo
