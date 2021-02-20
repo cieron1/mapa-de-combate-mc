@@ -1,5 +1,22 @@
 ## Atualizações
 
+### 1.2.1
+
+Mapa: logo alterada e os nomes flutuantes "Outras Coisas", "Tutorial e Treinamento", "Configurações" e "Lutadores e Mapas" agora tem cores especiais (rosa, verde, ciano e dourado respectivamente).
+
+Nova logo:
+![Nova logo](./mundo/icon.png)
+
+Veneno: defesa: 8 -> 7.
+
+Aquático: guardião ancião (novo ataque): invoca um guardião ancião com 12 de vida e sem IA, ele te segue por 10 segundos, sua hurtbox empurra você, mas na maioria do tempo tú estará dentro dele (protegido). Não tente dar um pulo duplo com ele. Defesa: 10 -> 7.
+
+Festivo: defesa: 7 -> 5. Adicionado outro foguete - que fica no inventário - e dá por volta de 14 de dano (tempo de recarga: 50s).
+
+Astronauta hi-tech: defesa: 12 -> 10. Mecanismo de ressussitação: 50s -> 75s de recarga.
+
+Metálico: vida: 19 -> 17.
+
 ### 1.2.0
 
 Adicionado Arvoresco (com tutorial e visualização de personagem).

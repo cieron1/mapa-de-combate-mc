@@ -11,7 +11,7 @@ Vida:18 (20=padrão), Dano:1.1 (1=padrão), Velocidade:0.14 (0.1=padrão), Veloc
 ## 2. Veneno
 
 #### Atributos:
-Vida:34, Dano:-3.5, Velocidade:0.18, Velocidade de ataque:7, Resistência a repulsão:0.1 e defesa:8.
+Vida:34, Dano:-3.5, Velocidade:0.18, Velocidade de ataque:7, Resistência a repulsão:0.1 e defesa:7.
 
 ![Hotbar](./imagens/lutadores/Veneno-hotbar.png)
 ![Veneno](./imagens/lutadores/Veneno.png)
@@ -67,7 +67,7 @@ Vida:28, Dano:5, Velocidade:0.09, Velocidade de ataque:4.2, Resistência a repul
 ## 9. Aquático
 
 #### Atributos:
-Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repulsão:0 e defesa:10.
+Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repulsão:0 e defesa:7.
 
 ![Hotbar](./imagens/lutadores/Aqua-hotbar.png)
 ![Aquático](./imagens/lutadores/Aquático.png)
@@ -75,7 +75,7 @@ Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repu
 ## 10. Festivo
 
 #### Atributos:
-Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resistência a repulsão:0.2 e defesa:7.
+Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resistência a repulsão:0.2 e defesa:5.
 
 ![Hotbar](./imagens/lutadores/Fest-hotbar.png)
 ![Festivo](./imagens/lutadores/Festivo.png)
@@ -83,7 +83,7 @@ Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resist
 ## 11. Astronauta hi-tech
 
 #### Atributos:
-Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repulsão:0 e defesa:12.
+Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repulsão:0 e defesa:10.
 
 ![Hotbar](./imagens/lutadores/Astro-hotbar.png)
 ![Astronauta hi-tech](./imagens/lutadores/Astronauta-hi-tech.png)
@@ -99,7 +99,7 @@ Vida:27, Dano:2, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repul
 ## 13. Metálico
 
 #### Atributos:
-Vida:19, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e defesa:0.
+Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e defesa:0.
 
 ![Hotbar](./imagens/lutadores/Metálico-hotbar.png)
 ![Metálico](./imagens/lutadores/Metálico.png)
