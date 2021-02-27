@@ -51,7 +51,7 @@ Vida:22, Dano:1.3, Velocidade:0.15, Velocidade de ataque:4.3, Resistência a rep
 ## 7. Fim
 
 #### Atributos:
-Vida:40, Dano:1, Velocidade:0.11, Velocidade de ataque:4.1, Resistência a repulsão:0.2 e defesa:1-4.
+Vida:40, Dano:0.9, Velocidade:0.11, Velocidade de ataque:4.1, Resistência a repulsão:0.2 e defesa:1-3.
 
 ![Hotbar](./imagens/lutadores/fim-hotbar.png)
 ![Fim](./imagens/lutadores/Fim.png)
@@ -83,7 +83,7 @@ Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resist
 ## 11. Astronauta hi-tech
 
 #### Atributos:
-Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repulsão:0 e defesa:10.
+Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repulsão:0 e defesa:9.
 
 ![Hotbar](./imagens/lutadores/Astro-hotbar.png)
 ![Astronauta hi-tech](./imagens/lutadores/Astronauta-hi-tech.png)
@@ -107,7 +107,7 @@ Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsã
 ## 14. Minerador
 
 #### Atributos:
-Vida:22, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.7 e defesa:0.
+Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.7 e defesa:0.
 
 ![Hotbar](./imagens/lutadores/Mineiro-hotbar.png)
 ![Minerador](./imagens/lutadores/Minerador.png)
@@ -115,7 +115,7 @@ Vida:22, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repul
 ## 15. Pesadelo
 
 #### Atributos:
-Vida:19, Dano:1, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e defesa:12.
+Vida:19, Dano:1, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e defesa:8.
 
 ![Hotbar](./imagens/lutadores/Pesadelo-hotbar.png)
 ![Pesadelo](./imagens/lutadores/Pesadelo.png)

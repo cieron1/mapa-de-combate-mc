@@ -1,5 +1,23 @@
 ## Atualizações
 
+### 1.2.2
+
+Área de treinamento: de 1 a 10 (20 para cima e baixo) blocos fora do mapa, você será teleportado de volta ao mapa. Área de luta terá isso no futuro.
+
+Adiconada opção de manter o inventário ou deixar ele cair (como os itens são destruídos, você não pode pegá-los de novo).
+
+Árido: Regeneração passiva: nível 2 -> 1. Flecha estranha: trocada invisibilidade por resistência 2 e agora são somente 2 flechas por vez.
+
+Fim: dano: 1 -> 0.9. Defesa da cabeça: 3 -> 2. Cristal agora tem partícula para mostrar quando você usa o ataque.
+
+Aquático: guardião: vida: 12 -> 3.
+
+Astronauta: totem: 75s -> 100s. Defesa: 10 -> 9. Pulo duplo: O nível do efeito é 251, que faz seu pulo menor e tú cai mais lentamente.
+
+Minerador: vida: 22 -> 21, besta e escudo: sem carga rápida ou maldição do desaparecimento (já que não funciona). Mesa: duração: 16s -> 13s. Recarga: 6s -> 7s.
+
+Pesadelo: defesa: 12 -> 8, Aranhas: 30s -> 40s. Machado de netherita -> espada de netherita. Regeneração: Consertado bug em que ela não funcionaria, e agora, ela dura entre 1,5 e 3 segundos depois do tempo final.
+
 ### 1.2.1
 
 Mapa: logo alterada e os nomes flutuantes "Outras Coisas", "Tutorial e Treinamento", "Configurações" e "Lutadores e Mapas" agora tem cores especiais (rosa, verde, ciano e dourado respectivamente).

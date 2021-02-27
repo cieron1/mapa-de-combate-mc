@@ -1,0 +1,6 @@
+{
+    "values": [
+        "custom_music_discs_dp:detect_play_tick",
+        "custom_music_discs_dp:detect_stop_tick"
+    ]
+}
