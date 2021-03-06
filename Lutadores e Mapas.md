@@ -1,3 +1,5 @@
+## Atenção: Esta página contem muitas imagens.
+
 # Lutadores
 
 ## 1. Guerreiro da neve
@@ -91,7 +93,7 @@ Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repu
 ## 12. Nether
 
 #### Atributos:
-Vida:27, Dano:2, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.3 e defesa:8.
+Vida:27, Dano:1, Velocidade:0.12, Velocidade de ataque:4.2, Resistência a repulsão:0.3 e defesa:8.
 
 ![Hotbar](./imagens/lutadores/Nether-hotbar.png)
 ![Nether](./imagens/lutadores/Nether.png)
@@ -127,6 +129,9 @@ Vida:30, Dano:-1 até 3, Velocidade:0.09-0.16, Velocidade de ataque:3.8-4.2, Res
 
 ![Hotbar](./imagens/lutadores/Alma-hotbar.png)
 ![Senhor das almas](./imagens/lutadores/Senhor-das-almas.png)
+
+Gráfico de força (de 30 de vida a 0, cada quadrado é igual a 1, força mínima=-1, máxima=3 (da esquerda para a direita)):
+![Gráfico de força](./imagens/lutadores/Alma-vida.png)
 
 ## 17. Morte
 
@@ -237,3 +242,7 @@ Vida:20, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsã
 ## Mapa 17: Piscina
 
 ![Piscina](./imagens/mapas/Piscina.png)
+
+## Mapa 18: Troca-troca
+
+![Troca-troca](./imagens/mapas/Troca.png)

@@ -1,0 +1,19 @@
+{
+"music_disc.minutosceu": {
+    "sounds": [
+        {
+            "name": "records/minutosceu",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pesadelo": {
+    "sounds": [
+        {
+            "name": "records/pesadelo",
+            "stream": true
+        }
+    ]
+}
+}

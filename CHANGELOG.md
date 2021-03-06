@@ -1,5 +1,40 @@
 ## Atualizações
 
+### 1.2.3 (Troca-som)
+
+Adicionado mapa "Troca-troca", se você entra nele 2 vezes seguidas, tem a chance de 2 paredes aparecerem ao mesmo tempo (então, para que isso não aconteça, use outro mapa na próxima partida (cancele ela se quiser) e use o Troca-troca depois).
+
+Alavanca de modo singleplayer/multiplayer e hitstun: colocadas em área antes da partida.
+Hitstun:
+Há dois tipos de hitstun, o padrão e o 2.0. Ambas têm o propósito de não deixar você usar o pulo duplo quando levar dano.
+<Padrão> Se você levar um dano entre 0.1 e 2.4, você não poderá usar o pulo duplo por um certo tempo (cada 0.1 de dano = -1/20 de segundo sem o pulo duplo, e o padrão é 2,5 segundos).
+<2.0> Toda vez que você levar dano, durante 1 segundo você não pode dar um pulo duplo (não acumula).
+
+Mapa novo:
+![Troca-Troca](./imagens/mapas/Troca.png)
+
+Adicionadas músicas "3 Minutos no Céu" e "Um Pesadelo". Para poder usá-las, coloque a pasta "custom_music_discs_rp" em pacotes de recursos, os discos e as músicas estarão lá. Se você não fizer isso, nem as músicas nem os novos discos aparecerão.
+Agora, todas as músicas poderão ser iniciadas automaticamente se você for na sessão "músicas" e clicar na placa de cima do som que você quiser ouvir no início da batalha (e o fim e além se a batalha acabar antes da música).
+
+Logo: alterada para que tembém tenha a versão na imagem.
+
+Modo singleplayer (esqueletos e brutos): agora eles não desaparecerão quando você morrer.
+
+Festivo: corrigido erro em que escudo carrega se não estiver em seu slot padrão.
+
+Nether: dano: 2 -> 1. Vel. de ataque: 4.3 -> 4.2. O Wither: 20s -> 30s.
+
+Senhor das almas: um gráfico que mostra o crescimento de sua força comparada a vida.
+
+Gráfico (de 30 de vida a 0, cada quadrado é igual a 1, força mínima=-1, máxima=3 (da esquerda para a direita)):
+![Gráfico de força](./imagens/lutadores/Alma-vida.png)
+
+Morte: doença: alcance: 7 -> 4. Sem futuro: alcance: 10 -> 4. Assim, todos os ataques com cabeças ou crânios nesse personagem agora tem o alcance de 4.
+
+Elétrico: sobrecarga agora te deixa imóvel por 8 segundos (mesmo tempo que dá força).
+
+Arvoresco: abelhas: 25s -> 40s.
+
 ### 1.2.2
 
 Área de treinamento: de 1 a 10 (20 para cima e baixo) blocos fora do mapa, você será teleportado de volta ao mapa. Área de luta terá isso no futuro.

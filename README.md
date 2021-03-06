@@ -5,6 +5,7 @@
 1. Minecraft 1.16.3
 1. [Forge 34.1.42](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.3.html)
 1. [OptiFine](https://optifine.net/downloads) (opcional)
+1. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all) (opcional, serve para ver os itens em seu inventário, armadura e durabilidades)
 
 ## Recursos
 
@@ -23,8 +24,8 @@
   - [x] Os outros 18 lutadores
 - [ ] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 17 outros mapas
-  - [ ] 5 mapas restantes
+  - [x] 18 outros mapas
+  - [ ] 4 mapas restantes
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas
@@ -33,7 +34,7 @@
   - [x] Tempo máximo de partida
   - [ ] Músicas
     - [x] Do jogo
-    - [ ] Minhas
+    - [ ] Minhas: 2/5
   - [x] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas
