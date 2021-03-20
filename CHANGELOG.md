@@ -1,5 +1,39 @@
 ## Atualizações
 
+### 1.3.0 (Update de Vida)
+
+Mecânica do jogo: ar (sobre élitros): nome mudado para tempo no ar. Agora, em vez dele ser resetado quando você fica no chão, agora você perde 150 por 1/20s (3000 por segundo).
+
+Agora, você pode escolher entre ter visão noturna (padrão) ou não (mais escuro).
+
+Novo mapa: Caos Tridimensional.
+![Caos 3D](./imagens/mapas/Caos-3D.png)
+
+Foram criados alguns mapas customizados, clique aqui: [Mapas customizados](./mapas%20customizados.md).
+
+Fim: vel. de ataque: 4 -> 3.6. Olho da vida: absorção: 7 -> 3s. Barra de ação: mostra a pontuação "tempo de ar".
+
+Nether: aspecto flamejante: nível 3 -> 2.
+
+Minerador
+| Característica | Antes | Depois |
+| -------------- | ---- | ------ |
+| Vel. | 0.12 | 0.13 |
+| Vida | 21 | 22 |
+| Gravidade | alta (0.095)| normal (0.07)
+(Agora, quando houver muita informação, essa tabela aparecerá)
+
+Bancada de trabalho: recarga: 7 -> 15s. Pás: indestrutíveis e com repulsão 1.
+
+Pesadelo: agora quando usadas, aranhas deixarão o tempo de dia.
+
+Vivo: adicionado.
+
+![Vivo](./imagens/lutadores/Vivo.png)
+
+Barra de ataque:
+![Barra de ataque](./imagens/lutadores/Vivo-hotbar.png)
+
 ### 1.2.4
 
 Área de luta: de 1 a 10 (20 para cima) blocos fora do mapa, você será teleportado de volta ao mapa. Motivo: alguns personagens podem atravessar blocos, então é necessário ter isto.
@@ -25,7 +59,7 @@ Arvoresco tem seus itens em área de treinamento e Aquático (guardião), Pesade
 
 Veneno, Árido, Explosivo, Estranho e Aquático: consertado erro em recargas de alguns ataques.
 
-Fim: dano: 0.9 -> 0.3. Vel. de ataque: 4.1 -> 4. Besta: corrigida a forma em que ela carrega.
+Fim: dano: 0.9 -> 0.3. Vel. de ataque: 4.1 -> 4. Besta: corrigida a forma em que ela carrega (agora você tem que tacá-la fora para ela voltar a recarregar).
 
 Astronauta: resistência de repulsão: 0 -> 0.3.
 

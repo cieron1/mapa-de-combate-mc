@@ -16,7 +16,7 @@
 - [ ] Lutadores
   - [ ] Redstoner Alado
   - [x] Arvoresco
-  - [ ] Vivo
+  - [x] Vivo
   - [ ] Calculista
   - [ ] ?
   - [ ] ??
@@ -24,8 +24,8 @@
   - [x] Os outros 18 lutadores
 - [ ] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 19 outros mapas
-  - [ ] 3 mapas restantes
+  - [x] 20 outros mapas
+  - [ ] 4 mapas restantes (?)
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas
@@ -34,7 +34,7 @@
   - [x] Tempo máximo de partida
   - [ ] Músicas
     - [x] Do jogo
-    - [ ] Minhas: 2/5
+    - [ ] Minhas: 2/7
   - [x] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas
