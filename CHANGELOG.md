@@ -21,7 +21,7 @@ Para poder usá-las, coloque a pasta "custom_music_discs_rp" em pacotes de recur
 
 Novo mapa: Floresta.
 
-![Mapa](./imagens/mapas/floresta.png)
+![Mapa](./imagens/mapas/loresta.png)
 
 Adicionadas iluminações em várias áreas para quando a visão noturna estar desativada ser possível ver.
 

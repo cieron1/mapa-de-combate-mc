@@ -266,7 +266,7 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 
 ## Mapa 20: Floresta
 
-![Floresta](./imagens/mapas/floresta.png)
+![Floresta](./imagens/mapas/loresta.png)
 
 ## Mapa 21 (22): Caos Tridimensional
 
