@@ -1,5 +1,46 @@
 ## Atualizações
 
+### 1.3.1 (Novas músicas)
+
+Meu canal no youtube, onde disponibilizarei as minhas músicas (no momento só publiquei "3 Minutos no Céu"): https://www.youtube.com/channel/UCgt7f8dTlllraIgpQ1GKJNQ
+
+Corrigido erro em que levitação é cancelada quando você leva um dano (mesmo quando tú está sem hitstun).
+
+Adicionadas 5 músicas novas, sendo estas:
+Em uma Caverna Congelada; ![Disco](./imagens/naooficiais/d.png)
+
+Tic-tac-tic-tac; ![Disco](./imagens/naooficiais/b.png)
+
+O Fim; ![Disco](./imagens/naooficiais/a.png)
+
+O Limbo e a Guerra; ![Disco](./imagens/naooficiais/c.png)
+
+O Mistério da Árvore. ![Disco](./imagens/naooficiais/e.png)
+
+Para poder usá-las, coloque a pasta "custom_music_discs_rp" em pacotes de recursos, os discos e as músicas estarão lá. Se você não fizer isso, nem as músicas nem os novos discos aparecerão.
+
+Novo mapa: Floresta.
+
+![Mapa](./imagens/mapas/floresta.png)
+
+Adicionadas iluminações em várias áreas para quando a visão noturna estar desativada ser possível ver.
+
+Explosivo:
+| Característica | Antes | Depois |
+| -------------- | ---- | ------ |
+| Poção arremessável | 6s | 12s |
+| Poção prolongada | 5s | 10s |
+| Isqueiro: afiação e aspecto flamejante | Nível 2 | Nível 1
+
+Vivo: arrumado inventário (espada de ferro, arco, escudo e peitoral são conseguidos com o villager em ambas as versões).
+Barra de ataques nova:
+
+![Barra antiga](./imagens/lutadores/Vivo-hotbar.png)
+
+Barra de ataques antiga:
+
+![Barra nova](./imagens/lutadores/Vivo-hotbarv.png)
+
 ### 1.3.0 (Update de Vida)
 
 Mecânica do jogo: ar (sobre élitros): nome mudado para tempo no ar. Agora, em vez dele ser resetado quando você fica no chão, agora você perde 150 por 1/20s (3000 por segundo).
@@ -7,6 +48,7 @@ Mecânica do jogo: ar (sobre élitros): nome mudado para tempo no ar. Agora, em 
 Agora, você pode escolher entre ter visão noturna (padrão) ou não (mais escuro).
 
 Novo mapa: Caos Tridimensional.
+
 ![Caos 3D](./imagens/mapas/Caos-3D.png)
 
 Foram criados alguns mapas customizados, clique aqui: [Mapas customizados](./mapas%20customizados.md).
@@ -15,7 +57,7 @@ Fim: vel. de ataque: 4 -> 3.6. Olho da vida: absorção: 7 -> 3s. Barra de açã
 
 Nether: aspecto flamejante: nível 3 -> 2.
 
-Minerador
+Minerador:
 | Característica | Antes | Depois |
 | -------------- | ---- | ------ |
 | Vel. | 0.12 | 0.13 |

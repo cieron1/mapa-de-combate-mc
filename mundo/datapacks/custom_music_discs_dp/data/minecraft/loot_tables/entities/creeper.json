@@ -43,7 +43,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - 3 Minutos no ceu\\\"\"]}}"
+                            "tag": "{CustomModelData:1, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - 3 Minutos no Ceu\\\"\"]}}"
                         }
                     ]
                 },
@@ -54,7 +54,62 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:2, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Um pesadelo\\\"\"]}}"
+                            "tag": "{CustomModelData:2, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Um Pesadelo\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:3, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Fim\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:4, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Tic-tac-tic-tac...\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:5, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Limbo e a Guerra\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:6, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Caverna Congelada\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:7, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Misterio da arvore\\\"\"]}}"
                         }
                     ]
                 }

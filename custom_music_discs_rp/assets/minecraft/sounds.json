@@ -15,5 +15,50 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.ofim": {
+    "sounds": [
+        {
+            "name": "records/ofim",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.tic-tac": {
+    "sounds": [
+        {
+            "name": "records/tic-tac",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.limboeguerra": {
+    "sounds": [
+        {
+            "name": "records/limboeguerra",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.caverna": {
+    "sounds": [
+        {
+            "name": "records/caverna",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.misterioarvore": {
+    "sounds": [
+        {
+            "name": "records/misterioarvore",
+            "stream": true
+        }
+    ]
 }
 }

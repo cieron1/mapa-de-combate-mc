@@ -15,6 +15,36 @@
                 "custom_model_data": 2
             },
             "model": "item/music_disc_pesadelo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/music_disc_ofim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/music_disc_tic-tac"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/music_disc_limboeguerra"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/music_disc_caverna"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/music_disc_misterioarvore"
         }
     ]
 }

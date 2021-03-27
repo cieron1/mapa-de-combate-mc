@@ -8,8 +8,11 @@
 Vida:18 (20=padrão), Dano:1.1 (1=padrão), Velocidade:0.14 (0.1=padrão), Velocidade de ataque:4.1 (4=padrão), Resistência a repulsão:0.3 (0=padrão, máximo=1) e defesa: 10 (6 do peitoral).
 
 Barra de ataques:
+
 ![Hotbar](./imagens/lutadores/Neva-hotbar.png)
+
 Lutador:
+
 ![Guerreiro da neve](./imagens/lutadores/Guerreiro-da-neve.png)
 
 ## 2. Veneno
@@ -261,6 +264,10 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 
 ![Limbo](./imagens/mapas/Limbo.png)
 
-## Mapa 20 (22): Caos Tridimensional
+## Mapa 20: Floresta
+
+![Floresta](./imagens/mapas/floresta.png)
+
+## Mapa 21 (22): Caos Tridimensional
 
 ![Caos 3D](./imagens/mapas/Caos-3D.png)
