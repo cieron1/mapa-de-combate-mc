@@ -1,4 +1,4 @@
-## Atenção: Esta página contem muitas imagens.
+### Atenção: Esta página contem muitas imagens.
 
 # Lutadores
 
