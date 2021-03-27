@@ -18,14 +18,16 @@
   - [x] Arvoresco
   - [x] Vivo
   - [ ] Calculista
-  - [ ] ?
+  - [ ] Caçador Temporal
   - [ ] ??
+  - [ ] ???
+  - [ ] ???
   - [ ] ???
   - [x] Os outros 18 lutadores
 - [ ] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 20 outros mapas
-  - [ ] 4 mapas restantes (?)
+  - [x] 21 outros mapas
+  - [ ] 3 mapas restantes (?)
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas
@@ -34,8 +36,8 @@
   - [x] Tempo máximo de partida
   - [ ] Músicas
     - [x] Do jogo
-    - [ ] Minhas: 2/7
-  - [x] Minigames
+    - [ ] Minhas: 7/8
+  - [ ] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas
     - [ ] Tiro ao alvo
