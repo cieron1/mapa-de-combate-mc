@@ -1,5 +1,30 @@
 ## Atualizações
 
+### 1.3.2
+
+Adicionado placa de personagem aleatório na área dos lutadores.
+
+Adicionado novo mapa: Templo abandonado.
+
+![Templo](./imagens/mapas/templo.png)
+
+Veneno: lentidão (novo): se sua barra de comida estiver abaixo de 18, você terá lentidão 1 por 3 segundos. Poção: 30s -> 50s. Pérola do fim: 8s -> 10s.
+
+Natural: mel: corrigido erro em que poção não descarrega. Maçã dourada: tempo de recarga: 0s -> 10s.
+
+Astronauta Hi-tech:
+| Característica | Antes | Depois |
+| -------------- | ---- | ------ |
+| Levitação | Nível 251 | Nível 2 |
+| Barra de ação | Nada | Mostra tanque de oxigênio |
+| Velocidade | 0.085 | 0.088 (0.1 = padrão)
+
+Minerador: barra de ação: mostra a pontuação da mesa de trabalho (o quanto você pode usar e o tempo de recarga).
+
+Morte: sem futuro: agora também aparece como subtítulo.
+
+Vivo: poção de regeneração: corrigido erro em que ela não reseta. Respirador (novo): Aparece só no início, e quando usado, te dá lentidão 2 infinita e você não precisa se preocupar mais com o PH.
+
 ### 1.3.1 (Novas músicas)
 
 Meu canal no youtube, onde disponibilizarei as minhas músicas (no momento só publiquei "3 Minutos no Céu"): https://www.youtube.com/channel/UCgt7f8dTlllraIgpQ1GKJNQ

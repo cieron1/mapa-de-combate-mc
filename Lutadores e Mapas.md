@@ -90,7 +90,7 @@ Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resist
 ## 11. Astronauta hi-tech
 
 #### Atributos:
-Vida:25, Dano:1, Velocidade:0.085, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e defesa:9.
+Vida:25, Dano:1, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e defesa:9.
 
 ![Hotbar](./imagens/lutadores/Astro-hotbar.png)
 ![Astronauta hi-tech](./imagens/lutadores/Astronauta-hi-tech.png)
@@ -268,6 +268,10 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 
 ![Floresta](./imagens/mapas/loresta.png)
 
-## Mapa 21 (22): Caos Tridimensional
+## Mapa 21: Templo Abandonado
+
+![Templo](./imagens/mapas/templo.png)
+
+## Mapa 22: Caos Tridimensional
 
 ![Caos 3D](./imagens/mapas/Caos-3D.png)
