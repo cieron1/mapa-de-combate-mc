@@ -1,5 +1,23 @@
 ## Atualizações
 
+### 1.3.3
+
+Adicionado novo mapa: O Lar do Estranho.
+
+![Estranho (lar)](./imagens/mapas/lar.png)
+
+Tempo: adicionada placa para checar a marcação de tempo, e outra placa que explica algumas coisas. Textos que ela fala quando você clica nela:
+" Se você quer uma marcação de tempo específica: aperte uma alavanca e clique na placa de tirar tempo (não me pergunte porque é assim, eu não entendo esse sistema). Ex.: apertei a alavanca de 5 minutos, cliquei na placa de tirar tempo, agora as partidas que eu jogar terão 5 minutos pra mim. "
+" Como resetar o tempo e sua marcação com sucesso: clique na placa de resetar a marcação de tempo e depois na de resetar o tempo - nenhuma alavanca pode estar ativa nesse momento. "
+
+Estranho: alterador de gravidade: duração: 15s -> 7s. Pulo triplo: não tira vida quando na mão.
+
+Astronauta Hi-tech: dano: 1 -> 2.4. Escudo: não tira vida quando na mão.
+
+Nether: dano: 1 -> 0.1. Vel. de ataque: 4.2 -> 3.7.
+
+Pesadelo: dano: 1 -> 0 (agora ele precisa usar a espada para dar dano físico).
+
 ### 1.3.2
 
 Adicionado placa de personagem aleatório na área dos lutadores.
@@ -196,7 +214,7 @@ Aquático: guardião ancião (novo ataque): invoca um guardião ancião com 12 d
 
 Festivo: defesa: 7 -> 5. Adicionado outro foguete - que fica no inventário - e dá por volta de 14 de dano (tempo de recarga: 50s).
 
-Astronauta hi-tech: defesa: 12 -> 10. Mecanismo de ressussitação: 50s -> 75s de recarga.
+Astronauta Hi-tech: defesa: 12 -> 10. Mecanismo de ressussitação: 50s -> 75s de recarga.
 
 Metálico: vida: 19 -> 17.
 

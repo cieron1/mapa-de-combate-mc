@@ -90,7 +90,7 @@ Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resist
 ## 11. Astronauta hi-tech
 
 #### Atributos:
-Vida:25, Dano:1, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e defesa:9.
+Vida:25, Dano:2.4, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e defesa:9.
 
 ![Hotbar](./imagens/lutadores/Astro-hotbar.png)
 ![Astronauta hi-tech](./imagens/lutadores/Astronauta-hi-tech.png)
@@ -98,7 +98,7 @@ Vida:25, Dano:1, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repu
 ## 12. Nether
 
 #### Atributos:
-Vida:27, Dano:1, Velocidade:0.12, Velocidade de ataque:4.2, Resistência a repulsão:0.3 e defesa:8.
+Vida:27, Dano:0.1, Velocidade:0.12, Velocidade de ataque:3.7, Resistência a repulsão:0.3 e defesa:8.
 
 ![Hotbar](./imagens/lutadores/Nether-hotbar.png)
 ![Nether](./imagens/lutadores/Nether.png)
@@ -122,7 +122,7 @@ Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repul
 ## 15. Pesadelo
 
 #### Atributos:
-Vida:19, Dano:1, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e defesa:8.
+Vida:19, Dano:0, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e defesa:8.
 
 ![Hotbar](./imagens/lutadores/Pesadelo-hotbar.png)
 ![Pesadelo](./imagens/lutadores/Pesadelo.png)
@@ -275,3 +275,7 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 ## Mapa 22: Caos Tridimensional
 
 ![Caos 3D](./imagens/mapas/Caos-3D.png)
+
+## Mapa 23: O Lar do Estranho
+
+![Estranho (Lar)](./imagens/mapas/lar.png)
