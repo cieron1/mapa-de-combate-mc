@@ -1,5 +1,27 @@
 ## Atualizações
 
+### 1.3.4
+
+Adicionado Redstoner Alado (BETA).
+
+![Redstoner Alado](./imagens/lutadores/Reds.png)
+
+![Hotbar](./imagens/lutadores/Reds-hotbar.png)
+
+Corrigidos alguns erros em [Lutadores e Mapas](./Lutadores%20e%20Mapas.md) e na área de tutoriais à respeito da defesa dos lutadores e outras coisas do Guerreiro da Neve.
+
+Morto:
+Corrigido erros e um bug na área de treinamento envolvendo ele.
+| Característica | Antes | Depois |
+| -------------- | ---- | ------ |
+| Dano | 5 | 3 |
+| Velocidade | 0.09 | 0.095 |
+| Peso (defesa) | 5 em cada mão | 2 em cada
+
+Pesadelo: defesa: 8 -> 6.
+
+Morte: dano: 1 -> -1 (agora ela precisa usar a espada/foices para dar dano físico).
+
 ### 1.3.3
 
 Adicionado novo mapa: O Lar do Estranho.

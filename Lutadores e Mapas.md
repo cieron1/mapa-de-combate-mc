@@ -2,10 +2,10 @@
 
 # Lutadores
 
-## 1. Guerreiro da neve
+## 1. Guerreiro da Neve
 
 #### Atributos:
-Vida:18 (20=padrão), Dano:1.1 (1=padrão), Velocidade:0.14 (0.1=padrão), Velocidade de ataque:4.1 (4=padrão), Resistência a repulsão:0.3 (0=padrão, máximo=1) e defesa: 10 (6 do peitoral).
+Vida:18 (20=padrão), Dano:1.1 (1=padrão), Velocidade:0.14 (0.1=padrão), Velocidade de ataque:4.1 (4=padrão), Resistência a repulsão:0.3 (0=padrão, máximo=1) e Defesa: 11 (6 do peitoral).
 
 Barra de ataques:
 
@@ -18,7 +18,7 @@ Lutador:
 ## 2. Veneno
 
 #### Atributos:
-Vida:34, Dano:-3.5, Velocidade:0.18, Velocidade de ataque:7, Resistência a repulsão:0.1 e defesa:7.
+Vida:34, Dano:-3.5, Velocidade:0.18, Velocidade de ataque:7, Resistência a repulsão:0.1 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Veneno-hotbar.png)
 ![Veneno](./imagens/lutadores/Veneno.png)
@@ -26,7 +26,7 @@ Vida:34, Dano:-3.5, Velocidade:0.18, Velocidade de ataque:7, Resistência a repu
 ## 3. Natural
 
 #### Atributos:
-Vida:20, Dano:1.3, Velocidade:0.13, Velocidade de ataque:3.7, Resistência a repulsão:0.3 e defesa:9.
+Vida:20, Dano:1.3, Velocidade:0.13, Velocidade de ataque:3.7, Resistência a repulsão:0.3 e Defesa:10.
 
 ![Hotbar](./imagens/lutadores/Natu-hotbar.png)
 ![Natural](./imagens/lutadores/Natural.png)
@@ -34,7 +34,7 @@ Vida:20, Dano:1.3, Velocidade:0.13, Velocidade de ataque:3.7, Resistência a rep
 ## 4. Árido
 
 #### Atributos:
-Vida:24, Dano:1, Velocidade:0.09, Velocidade de ataque:3.9, Resistência a repulsão:0.7 e defesa:12.
+Vida:24, Dano:1, Velocidade:0.09, Velocidade de ataque:3.9, Resistência a repulsão:0.7 e Defesa:12.
 
 ![Hotbar](./imagens/lutadores/Arido-hotbar.png)
 ![Árido](./imagens/lutadores/Árido.png)
@@ -42,7 +42,7 @@ Vida:24, Dano:1, Velocidade:0.09, Velocidade de ataque:3.9, Resistência a repul
 ## 5. Explosivo
 
 #### Atributos:
-Vida:23, Dano:1.3, Velocidade:0.105, Velocidade de ataque:4.8, Resistência a repulsão:0.6 e defesa:6.
+Vida:23, Dano:1.3, Velocidade:0.105, Velocidade de ataque:4.8, Resistência a repulsão:0.6 e Defesa:6.
 
 ![Hotbar](./imagens/lutadores/Explo-hotbar.png)
 ![Explosivo](./imagens/lutadores/Explosivo.png)
@@ -50,7 +50,7 @@ Vida:23, Dano:1.3, Velocidade:0.105, Velocidade de ataque:4.8, Resistência a re
 ## 6. Estranho
 
 #### Atributos:
-Vida:22, Dano:1.3, Velocidade:0.15, Velocidade de ataque:4.3, Resistência a repulsão:0 e defesa:7.
+Vida:22, Dano:1.3, Velocidade:0.15, Velocidade de ataque:4.3, Resistência a repulsão:0 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Estra-hotbar.png)
 ![Estranho](./imagens/lutadores/Estranho.png)
@@ -58,7 +58,7 @@ Vida:22, Dano:1.3, Velocidade:0.15, Velocidade de ataque:4.3, Resistência a rep
 ## 7. Fim
 
 #### Atributos:
-Vida:40, Dano:0.3, Velocidade:0.11, Velocidade de ataque:4, Resistência a repulsão:0.2 e defesa:1-3.
+Vida:40, Dano:0.3, Velocidade:0.11, Velocidade de ataque:4, Resistência a repulsão:0.2 e Defesa:1-3.
 
 ![Hotbar](./imagens/lutadores/fim-hotbar.png)
 ![Fim](./imagens/lutadores/Fim.png)
@@ -66,7 +66,7 @@ Vida:40, Dano:0.3, Velocidade:0.11, Velocidade de ataque:4, Resistência a repul
 ## 8. Morto
 
 #### Atributos:
-Vida:28, Dano:5, Velocidade:0.09, Velocidade de ataque:4.2, Resistência a repulsão:0.4 e defesa:4-8-13-18.
+Vida:28, Dano:3, Velocidade:0.095, Velocidade de ataque:4.2, Resistência a repulsão:0.4 e Defesa:4-6-8-10-12.
 
 ![Hotbar](./imagens/lutadores/Morto-hotbar.png)
 ![Morto](./imagens/lutadores/Morto.png)
@@ -74,7 +74,7 @@ Vida:28, Dano:5, Velocidade:0.09, Velocidade de ataque:4.2, Resistência a repul
 ## 9. Aquático
 
 #### Atributos:
-Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repulsão:0 e defesa:7.
+Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repulsão:0 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Aqua-hotbar.png)
 ![Aquático](./imagens/lutadores/Aquático.png)
@@ -82,7 +82,7 @@ Vida:17, Dano:1.1, Velocidade:0.154, Velocidade de ataque:4, Resistência a repu
 ## 10. Festivo
 
 #### Atributos:
-Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resistência a repulsão:0.2 e defesa:5.
+Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resistência a repulsão:0.2 e Defesa:5.
 
 ![Hotbar](./imagens/lutadores/Fest-hotbar.png)
 ![Festivo](./imagens/lutadores/Festivo.png)
@@ -90,7 +90,7 @@ Vida:24, Dano:1.8-0, Velocidade:0.145-0.13-0.12, Velocidade de ataque:24, Resist
 ## 11. Astronauta hi-tech
 
 #### Atributos:
-Vida:25, Dano:2.4, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e defesa:9.
+Vida:25, Dano:2.4, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e Defesa:9.
 
 ![Hotbar](./imagens/lutadores/Astro-hotbar.png)
 ![Astronauta hi-tech](./imagens/lutadores/Astronauta-hi-tech.png)
@@ -98,7 +98,7 @@ Vida:25, Dano:2.4, Velocidade:0.088, Velocidade de ataque:3.5, Resistência a re
 ## 12. Nether
 
 #### Atributos:
-Vida:27, Dano:0.1, Velocidade:0.12, Velocidade de ataque:3.7, Resistência a repulsão:0.3 e defesa:8.
+Vida:27, Dano:0.1, Velocidade:0.12, Velocidade de ataque:3.7, Resistência a repulsão:0.3 e Defesa:8.
 
 ![Hotbar](./imagens/lutadores/Nether-hotbar.png)
 ![Nether](./imagens/lutadores/Nether.png)
@@ -106,7 +106,7 @@ Vida:27, Dano:0.1, Velocidade:0.12, Velocidade de ataque:3.7, Resistência a rep
 ## 13. Metálico
 
 #### Atributos:
-Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e defesa:0.
+Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e Defesa:varia muito.
 
 ![Hotbar](./imagens/lutadores/Metálico-hotbar.png)
 ![Metálico](./imagens/lutadores/Metálico.png)
@@ -114,7 +114,7 @@ Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsã
 ## 14. Minerador
 
 #### Atributos:
-Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.7 e defesa:0.
+Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.7 e Defesa:varia muito.
 
 ![Hotbar](./imagens/lutadores/Mineiro-hotbar.png)
 ![Minerador](./imagens/lutadores/Minerador.png)
@@ -122,7 +122,7 @@ Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repul
 ## 15. Pesadelo
 
 #### Atributos:
-Vida:19, Dano:0, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e defesa:8.
+Vida:19, Dano:0, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repulsão:0.1 e Defesa:6.
 
 ![Hotbar](./imagens/lutadores/Pesadelo-hotbar.png)
 ![Pesadelo](./imagens/lutadores/Pesadelo.png)
@@ -130,7 +130,7 @@ Vida:19, Dano:0, Velocidade:0.1, Velocidade de ataque:3.5, Resistência a repuls
 ## 16. Senhor das almas
 
 #### Atributos:
-Vida:30, Dano:-1 até 3, Velocidade:0.09-0.16, Velocidade de ataque:3.8-4.2, Resistência a repulsão:0.1 e defesa:7.
+Vida:30, Dano:-1 até 3, Velocidade:0.09-0.16, Velocidade de ataque:3.8-4.2, Resistência a repulsão:0.1 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Alma-hotbar.png)
 ![Senhor das almas](./imagens/lutadores/Senhor-das-almas.png)
@@ -141,7 +141,7 @@ Gráfico de força (de 30 de vida a 0, cada quadrado é igual a 1, força mínim
 ## 17. Morte
 
 #### Atributos:
-Vida:50, Dano:1, Velocidade:0.17, Velocidade de ataque:4, Resistência a repulsão:0.3 e defesa:0.
+Vida:50, Dano:-1, Velocidade:0.17, Velocidade de ataque:4, Resistência a repulsão:0.3 e Defesa:0.
 
 ![Hotbar](./imagens/lutadores/Morte-hotbar.png)
 ![Morte](./imagens/lutadores/Morte.png)
@@ -149,7 +149,7 @@ Vida:50, Dano:1, Velocidade:0.17, Velocidade de ataque:4, Resistência a repuls�
 ## 18. Elétrico
 
 #### Atributos:
-Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repulsão:0.6 e defesa:7.
+Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repulsão:0.6 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Elet-hotbar.png)
 ![Elétrico](./imagens/lutadores/Elétrico.png)
@@ -157,7 +157,7 @@ Vida:16, Dano:1, Velocidade:0.143, Velocidade de ataque:4, Resistência a repuls
 ## 19. Arvoresco
 
 #### Atributos:
-Vida:20, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.2 e defesa:7.
+Vida:20, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.2 e Defesa:7.
 
 ![Hotbar](./imagens/lutadores/Arvoresco-hotbar.png)
 ![Arvoresco](./imagens/lutadores/Arvoresco.png)
@@ -165,10 +165,18 @@ Vida:20, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsã
 ## 20. Vivo
 
 #### Atributos:
-Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repulsão:0.5 e defesa:21-13-11-3.
+Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repulsão:0.5 e Defesa:21-13-11-3.
 
 ![Hotbar](./imagens/lutadores/Vivo-hotbar.png)
 ![Vivo](./imagens/lutadores/Vivo.png)
+
+## 21. Redstoner Alado (BETA)
+
+#### Atributos:
+Vida:48, Dano:0.2, Velocidade:0.08, Velocidade de ataque:4, Resistência a repulsão:0 e Defesa:2.
+
+![Hotbar](./imagens/lutadores/Reds-hotbar.png)
+![Redstoner](./imagens/lutadores/Reds.png)
 
 # Mapas
 
@@ -279,3 +287,7 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 ## Mapa 23: O Lar do Estranho
 
 ![Estranho (Lar)](./imagens/mapas/lar.png)
+
+## Mapa 24: (No próximo update)
+
+![Espera um pouco.](./imagens/mapas/nuvens.png)
