@@ -1,5 +1,20 @@
 ## Atualizações
 
+### 1.3.5
+
+Adicionados 5 ataques para o Redstoner Alado (BETA)
+
+Portões Lógicos:
+1.Portão E: quando usado, detecta se você levou algum dano e deu algum dano por 5 segundos, se ambos os eventos aconteceram, você ganha velocidade 3 por 8 segundos. Cooldown: 20s.
+
+2.Portão OU: quando usado, detecta se você deu ou tomou dano por 5 segundos, se deu, ganha resistência 1 por 5 segundos, se tomou, ganha força 1 por 5 segundos. Cooldown: 30s.
+
+3.Portão NÃO: Se você não deu dano nenhum por 5 segundos, você ganha regeneração 1 por 4 segundos. Cooldown: 10s.
+
+4.Portão XOR: é testado se nos próximos 5 segundos você toma ou dá dano, se ambos ou nenhum acontece, tu ganha nada, se somente um acontece, você ganha resistência 1 por 6 segundos. Cooldown: 20s.
+
+Batida de Asas: Batida de asas: só funciona quando você tem as asas equipadas, quando no chão, todas as entidades em 5 blocos ganham levitação 20 por 1 segundo (sobem 18 blocos), e quando usada no ar, tú ganha levitação 40 por 1 segundo (sobe 36 blocos). Lembrando que se você ou quem for afetado pelo ataque não tiver nenhum pulo duplo sobrando, eles não vão levitar - porque isso estará cancelando a levitação. Cooldown: 25s.
+
 ### 1.3.4
 
 Adicionado Redstoner Alado (BETA).
