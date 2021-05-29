@@ -5,3 +5,5 @@ execute as @s[nbt={Item:{tag:{CustomModelData:4}}}] at @s run stopsound @a[dista
 execute as @s[nbt={Item:{tag:{CustomModelData:5}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.limboeguerra
 execute as @s[nbt={Item:{tag:{CustomModelData:6}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.caverna
 execute as @s[nbt={Item:{tag:{CustomModelData:7}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.misterioarvore
+execute as @s[nbt={Item:{tag:{CustomModelData:8}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.astrosom
+execute as @s[nbt={Item:{tag:{CustomModelData:9}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.segundosceu

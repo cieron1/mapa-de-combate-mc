@@ -8,8 +8,8 @@
 
 ## Coisas opcionais
 
-1. [OptiFine](https://optifine.net/downloads) (opcional)
-1. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all) (opcional, serve para ver os itens em seu inventário, armadura e durabilidades)
+1. [OptiFine](https://optifine.net/downloads);
+2. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all) (serve para ver os itens em seu inventário, armadura e durabilidades).
 
 ## Recursos
 
@@ -18,20 +18,19 @@
 ## A fazer
 
 - [ ] Lutadores
-  - [ ] Redstoner Alado
+  - [X] Redstoner Alado
   - [x] Arvoresco
   - [x] Vivo
   - [ ] Calculista
   - [ ] Caçador Temporal
-  - [ ] ??
+  - [ ] Animalesco
   - [ ] ???
   - [ ] ???
   - [ ] ???
   - [x] Os outros 18 lutadores
-- [ ] Arenas / Mapas
+- [x] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 23 outros mapas
-  - [ ] 1 mapa restante (?)
+  - [x] 24 mapas
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas
@@ -40,7 +39,7 @@
   - [x] Tempo máximo de partida
   - [ ] Músicas
     - [x] Do jogo
-    - [ ] Minhas: 7/11
+    - [ ] Minhas: 9/11
   - [ ] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas

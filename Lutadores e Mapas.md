@@ -170,7 +170,7 @@ Vida:36, Dano:0.5, Velocidade:0.13, Velocidade de ataque:4, Resistência a repul
 ![Hotbar](./imagens/lutadores/Vivo-hotbar.png)
 ![Vivo](./imagens/lutadores/Vivo.png)
 
-## 21. Redstoner Alado (BETA)
+## 21. Redstoner Alado
 
 #### Atributos:
 Vida:48, Dano:0.2, Velocidade:0.08, Velocidade de ataque:4, Resistência a repulsão:0 e Defesa:2.
@@ -288,6 +288,6 @@ Vida:48, Dano:0.2, Velocidade:0.08, Velocidade de ataque:4, Resistência a repul
 
 ![Estranho (Lar)](./imagens/mapas/lar.png)
 
-## Mapa 24: (No próximo update)
+## Mapa 24: Nas Nuvens
 
-![Espera um pouco.](./imagens/mapas/nuvens.png)
+![Nuvens](./imagens/mapas/Nuvens.png)

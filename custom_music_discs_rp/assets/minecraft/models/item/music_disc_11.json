@@ -45,6 +45,18 @@
                 "custom_model_data": 7
             },
             "model": "item/music_disc_misterioarvore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/music_disc_astrosom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/music_disc_segundosceu"
         }
     ]
 }

@@ -1,4 +1,31 @@
-## Atualizações
+# Atualizações
+
+### 1.4.0 *(Nas nuvens de redstone)*
+
+Adicionadas 2 novas músicas e nova área preparada para 4 músicas.
+180 Segundos no Céu; ![Disco](./imagens/naooficiais/f.png)
+
+O Astronauta Escolhe o Som. ![Disco](./imagens/naooficiais/hdf.png)
+
+Para poder usá-las, coloque a pasta "custom_music_discs_rp" em pacotes de recursos, os discos e as músicas estarão lá. Se você não fizer isso, nem as músicas nem os novos discos aparecerão.
+
+Adicionadas mini-explicações sobre vidas e mapas no tutorial básico. E agora está mais fácil de saber para onde ir no início (pros tutoriais).
+
+#### *Adicionado novo mapa, Nas Nuvens.*
+
+![Nuvens](./imagens/mapas/Nuvens.png)
+
+#### *Adicionado novo personagem, Redstoner Alado.*
+
+![Redstoner Alado](./imagens/lutadores/Reds.png)
+![Hotbar](./imagens/lutadores/Reds-hotbar.png)
+
+#### *Adicionada opção de tirar a regeneração natural e nova área de configurações.*
+Ela tem a opção de manter ou não inventário, a visão noturna e a regeneração natural, trocar o nível de dificuldade entre fácil, normal (padrão) e difícil.
+
+Também foi adicionada a placa de "achar outras configurações" (bota partículas em cima das configurações que estão dispersas e faz você olhar a elas).
+
+Elétrico: Sobrecarga: demora: 38 -> 28s. Tridente: agora, depois de 5 segundos de ser usado, o clima volta ao normal.
 
 ### 1.3.5
 
@@ -20,7 +47,6 @@ Batida de Asas: Batida de asas: só funciona quando você tem as asas equipadas,
 Adicionado Redstoner Alado (BETA).
 
 ![Redstoner Alado](./imagens/lutadores/Reds.png)
-
 ![Hotbar](./imagens/lutadores/Reds-hotbar.png)
 
 Corrigidos alguns erros em [Lutadores e Mapas](./Lutadores%20e%20Mapas.md) e na área de tutoriais à respeito da defesa dos lutadores e outras coisas do Guerreiro da Neve.
@@ -80,9 +106,9 @@ Morte: sem futuro: agora também aparece como subtítulo.
 
 Vivo: poção de regeneração: corrigido erro em que ela não reseta. Respirador (novo): Aparece só no início, e quando usado, te dá lentidão 2 infinita e você não precisa se preocupar mais com o PH.
 
-### 1.3.1 (Novas músicas)
+### 1.3.1 *(Novas músicas)*
 
-Meu canal no youtube, onde disponibilizarei as minhas músicas (no momento só publiquei "3 Minutos no Céu"): https://www.youtube.com/channel/UCgt7f8dTlllraIgpQ1GKJNQ
+Meu canal no youtube, onde disponibilizarei as minhas músicas: https://www.youtube.com/channel/UCgt7f8dTlllraIgpQ1GKJNQ
 
 Corrigido erro em que levitação é cancelada quando você leva um dano (mesmo quando tú está sem hitstun).
 
@@ -121,7 +147,7 @@ Barra de ataques antiga:
 
 ![Barra nova](./imagens/lutadores/Vivo-hotbarv.png)
 
-### 1.3.0 (Update de Vida)
+### 1.3.0 *(Update de Vida)*
 
 Mecânica do jogo: ar (sobre élitros): nome mudado para tempo no ar. Agora, em vez dele ser resetado quando você fica no chão, agora você perde 150 por 1/20s (3000 por segundo).
 
@@ -185,7 +211,7 @@ Fim: dano: 0.9 -> 0.3. Vel. de ataque: 4.1 -> 4. Besta: corrigida a forma em que
 
 Astronauta: resistência de repulsão: 0 -> 0.3.
 
-### 1.2.3 (Troca-som)
+### 1.2.3 *(Troca-som)*
 
 Adicionado mapa "Troca-troca", se você entra nele 2 vezes seguidas, tem a chance de 2 paredes aparecerem ao mesmo tempo (então, para que isso não aconteça, use outro mapa na próxima partida (cancele ela se quiser) e use o Troca-troca depois).
 

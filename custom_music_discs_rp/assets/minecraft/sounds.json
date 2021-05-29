@@ -60,5 +60,23 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.astrosom": {
+    "sounds": [
+        {
+            "name": "records/astrosom",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.segundosceu": {
+    "sounds": [
+        {
+            "name": "records/segundosceu",
+            "stream": true
+        }
+    ]
 }
 }

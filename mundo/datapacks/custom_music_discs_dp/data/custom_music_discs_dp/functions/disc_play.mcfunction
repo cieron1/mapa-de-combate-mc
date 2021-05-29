@@ -5,3 +5,5 @@ execute as @s[scores={heldDisc=4}] run function custom_music_discs_dp:play_tic-t
 execute as @s[scores={heldDisc=5}] run function custom_music_discs_dp:play_limboeguerra
 execute as @s[scores={heldDisc=6}] run function custom_music_discs_dp:play_caverna
 execute as @s[scores={heldDisc=7}] run function custom_music_discs_dp:play_misterioarvore
+execute as @s[scores={heldDisc=8}] run function custom_music_discs_dp:play_astrosom
+execute as @s[scores={heldDisc=9}] run function custom_music_discs_dp:play_segundosceu

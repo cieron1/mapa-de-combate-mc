@@ -1,3 +1,3 @@
-execute as @s at @s run title @a[distance=..64] actionbar {"text":"Now Playing: Cieron - Caverna Congelada","color":"green"}
+execute as @s at @s run title @a[distance=..64] actionbar {"text":"Now Playing: Cieron - Em Uma Caverna Congelada","color":"green"}
 execute as @s at @s run stopsound @a[distance=..64] record minecraft:music_disc.11
 execute as @s at @s run playsound minecraft:music_disc.caverna record @a[distance=..64] ~ ~ ~ 4 1

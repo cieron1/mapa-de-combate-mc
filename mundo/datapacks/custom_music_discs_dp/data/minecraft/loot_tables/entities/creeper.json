@@ -98,7 +98,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:6, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Caverna Congelada\\\"\"]}}"
+                            "tag": "{CustomModelData:6, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - Em Uma Caverna Congelada\\\"\"]}}"
                         }
                     ]
                 },
@@ -109,7 +109,29 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:7, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Misterio da arvore\\\"\"]}}"
+                            "tag": "{CustomModelData:7, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Mist\u00c3\u00a9rio da Arvore\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:8, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Astronauta Escolhe o Som\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:9, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - 180 Segundos no Ceu\\\"\"]}}"
                         }
                     ]
                 }
