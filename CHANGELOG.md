@@ -1,5 +1,12 @@
 # Atualizações
 
+### 1.4.1
+
+Metálico: Dano: 1 -> -1 (agora precisa usar as espadas/machados para dar dano físico).
+Todas as espadas: -10 de durabilidade cada.
+Espada de ósmio: vel. de ataque: 1.75 -> 1.55.
+Tutorial refeito.
+
 ### 1.4.0 *(Nas nuvens de redstone)*
 
 Adicionadas 2 novas músicas e nova área preparada para 4 músicas.

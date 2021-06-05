@@ -106,7 +106,7 @@ Vida:27, Dano:0.1, Velocidade:0.12, Velocidade de ataque:3.7, Resistência a rep
 ## 13. Metálico
 
 #### Atributos:
-Vida:17, Dano:1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e Defesa:varia muito.
+Vida:17, Dano:-1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repulsão:0.4 e Defesa:varia muito.
 
 ![Hotbar](./imagens/lutadores/Metálico-hotbar.png)
 ![Metálico](./imagens/lutadores/Metálico.png)
