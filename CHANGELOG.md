@@ -1,5 +1,35 @@
 # Atualizações
 
+### 1.4.2
+
+Minerador: Vel. de ataque e dano: 4.3 e 1 para 4 e -1 respectivamente.
+Comparação de como o dano por segundo (DPS) era de antes e depois (com ataques críticos):
+
+Espadas
+| Antigo | Crit. antigo | Novo | Novo antigo |
+| ---- | ----- | ---- | -- |
+| 7,6 | 11,4 | 3,2 | 4,8 |
+| 11,4 | 17,1 | 6,4 | 9,6 |
+
+Machados
+| Antigo | Crit. antigo | Novo | Novo antigo |
+| ---- | ----- | ---- | -- |
+| 9,1 | 13,65 | 5 | 7,5 |
+| 9,9 | 14,85 | 5,6 | 8,4 |
+| 10,8 | 16,2 | 6,3 | 9,45 |
+| 11,7 | 17,55 | 7 | 10,5 |
+
+Pás
+| Antigo | Crit. antigo | Novo | Novo antigo |
+| ---- | ----- | ---- | -- |
+3,25 | 4,875 | 0,5 | 0,75
+4,55 | 6,825 | 1,5 | 2,25
+5,85 | 8,775 | 2,5 | 3,75
+7,15 | 10,725 | 3,5 | 5,25
+
+Vida: 22 -> 24.
+Corrigido bug (treinamento) em que há a chance de que itens são dados continuamente mesmo depois de jogador ter se auto-marcado como "não jogando".
+
 ### 1.4.1
 
 Metálico: Dano: 1 -> -1 (agora precisa usar as espadas/machados para dar dano físico).
