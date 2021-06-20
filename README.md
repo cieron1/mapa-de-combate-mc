@@ -9,11 +9,13 @@
 ## Coisas opcionais
 
 1. [OptiFine](https://optifine.net/downloads);
-2. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all) (serve para ver os itens em seu inventário, armadura e durabilidades).
+2. [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/all) (serve para ver os itens em seu inventário, armadura e durabilidades);
+3. Pacote de textura [Ultima Craft](https://www.curseforge.com/minecraft/texture-packs/ultimacraft/files/all) (UltimaCraft Main (pre-release 8 fix 2) é o que uso).
 
 ## Recursos
 
 [Lutadores e Mapas](./Lutadores%20e%20Mapas.md)
+[Changelog](./Changelog.md)
 
 ## A fazer
 
@@ -30,7 +32,7 @@
   - [x] Os outros 18 lutadores
 - [x] Arenas / Mapas
   - [x] 5 mapas customizáveis
-  - [x] 24 mapas
+  - [x] 24 (25) mapas
 - [ ] Outros
   - [x] Clima e tempo
   - [x] Sistema de vidas

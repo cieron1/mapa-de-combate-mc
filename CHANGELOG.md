@@ -1,33 +1,48 @@
 # Atualizações
 
+### 1.4.3
+
+Minerador: corrigido erro em que carrinhos poderiam aparecer no início de uma partida.
+
+Picareta inicial: agora tem afiação 2.
+
+Agora os mapas "Arena 6/l" e "Arena 6/L" são variações um do outro.
+
+Adicionado mapa Corredor:
+
+![Corredor](./imagens/mapas/Corredor.png)
+
+Foram corrigidos alguns erros em [Lutadores e Mapas](./Lutadores%20e%20Mapas.md).
+
 ### 1.4.2
 
 Minerador: Vel. de ataque e dano: 4.3 e 1 para 4 e -1 respectivamente.
 Comparação de como o dano por segundo (DPS) era de antes e depois (com ataques críticos):
 
 Espadas
-| Antigo | Crit. antigo | Novo | Novo antigo |
+| Antigo | Novo | Crit. antigo | Crit. Novo |
 | ---- | ----- | ---- | -- |
-| 7,6 | 11,4 | 3,2 | 4,8 |
-| 11,4 | 17,1 | 6,4 | 9,6 |
+| 7,6 | 3,2 | 11,4 | 4,8 |
+| 11,4 | 6,4 | 17,1 | 9,6 |
 
 Machados
-| Antigo | Crit. antigo | Novo | Novo antigo |
+| Antigo | Novo | Crit. antigo | Crit. Novo |
 | ---- | ----- | ---- | -- |
-| 9,1 | 13,65 | 5 | 7,5 |
-| 9,9 | 14,85 | 5,6 | 8,4 |
-| 10,8 | 16,2 | 6,3 | 9,45 |
-| 11,7 | 17,55 | 7 | 10,5 |
+| 9,1 | 5 | 13,65 | 7,5 |
+| 9,9 | 5,6 | 14,85 | 8,4 |
+| 10,8 | 6,3 | 16,2 | 9,45 |
+| 11,7 | 7| 17,55 | 10,5 |
 
 Pás
-| Antigo | Crit. antigo | Novo | Novo antigo |
+| Antigo | Novo | Crit. antigo | Crit. Novo |
 | ---- | ----- | ---- | -- |
-3,25 | 4,875 | 0,5 | 0,75
-4,55 | 6,825 | 1,5 | 2,25
-5,85 | 8,775 | 2,5 | 3,75
-7,15 | 10,725 | 3,5 | 5,25
+3,25 | 0,5 | 4,875 | 0,75
+4,55 | 1,5 | 6,825 | 2,25
+5,85 | 2,5 |8,775 | 3,75
+7,15 | 3,5 | 10,725 | 5,25
 
 Vida: 22 -> 24.
+
 Corrigido bug (treinamento) em que há a chance de que itens são dados continuamente mesmo depois de jogador ter se auto-marcado como "não jogando".
 
 ### 1.4.1

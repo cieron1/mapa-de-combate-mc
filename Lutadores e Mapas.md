@@ -58,7 +58,7 @@ Vida:22, Dano:1.3, Velocidade:0.15, Velocidade de ataque:4.3, Resistência a rep
 ## 7. Fim
 
 #### Atributos:
-Vida:40, Dano:0.3, Velocidade:0.11, Velocidade de ataque:4, Resistência a repulsão:0.2 e Defesa:1-3.
+Vida:40, Dano:0.3, Velocidade:0.11, Velocidade de ataque:3.6, Resistência a repulsão:0.2 e Defesa:1-3.
 
 ![Hotbar](./imagens/lutadores/fim-hotbar.png)
 ![Fim](./imagens/lutadores/Fim.png)
@@ -114,7 +114,7 @@ Vida:17, Dano:-1, Velocidade:0.1, Velocidade de ataque:4, Resistência a repuls�
 ## 14. Minerador
 
 #### Atributos:
-Vida:21, Dano:1, Velocidade:0.12, Velocidade de ataque:4.3, Resistência a repulsão:0.7 e Defesa:varia muito.
+Vida:24, Dano:-1, Velocidade:0.13, Velocidade de ataque:4, Resistência a repulsão:0.7 e Defesa:varia muito.
 
 ![Hotbar](./imagens/lutadores/Mineiro-hotbar.png)
 ![Minerador](./imagens/lutadores/Minerador.png)
@@ -224,13 +224,17 @@ Vida:48, Dano:0.2, Velocidade:0.08, Velocidade de ataque:4, Resistência a repul
 
 ![Labirinto de 2 andares](./imagens/mapas/Labirinto-de-2-andares.png)
 
-## Mapa 8: 6/l
+## Mapa 8: Arena 6/l
 
 ![6/l](./imagens/mapas/6.l.png)
 
-## Mapa 9: 6/L
+## Mapa 8 (1): Arena 6/L
 
 ![6/L](./imagens/mapas/6-L.png)
+
+## Mapa 9: Corredor
+
+![Corredor](./imagens/mapas/Corredor.png)
 
 ## Mapa 10: Ilha púrpura
 
