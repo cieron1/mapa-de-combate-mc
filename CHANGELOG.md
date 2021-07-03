@@ -1,5 +1,15 @@
 # Atualizações
 
+### 1.4.4
+
+Adicionado Calculista (BETA).
+![Calculista](./imagens/lutadores/Calc.png)
+![Hotbar](./imagens/lutadores/Calc-hotbar.png)
+
+Feitas mudanças sutis na seleção de lutadores, mais especificamente os personagens Nether, Árido, Pesadelo, Festivo e Astronauta Hi-tech.
+
+Guerreiros da Lava: Mapa 1 (Poço de lava), 3 (Os perigos do deserto), 4 (O treinamento) e 6 (Piscina de lava): alterada a textura do mapa.
+
 ### 1.4.3
 
 Minerador: corrigido erro em que carrinhos poderiam aparecer no início de uma partida.
