@@ -14,8 +14,8 @@
 
 ## Recursos
 
-[Lutadores e Mapas](./Lutadores%20e%20Mapas.md)
-[Changelog](./Changelog.md)
+1. [Lutadores e Mapas](./Lutadores%20e%20Mapas.md)
+2. [Changelog](./Changelog.md)
 
 ## A fazer
 
