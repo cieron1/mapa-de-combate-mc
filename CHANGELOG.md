@@ -1,5 +1,20 @@
 # Atualizações
 
+### 1.5.0
+
+Adicionado Calculista, um lutador que envolve um pouco de chance e muitos números e loucuras.
+![Calculista](./imagens/lutadores/Calc.png)
+![Hotbar](./imagens/lutadores/Calc-hotbar.png)
+
+Adicionadas 2 novas músicas e uma correção da música Tic-tac-tic-tac.
+A Estranheza Prevalece; ![Disco](./custom_music_discs_rp/assets/minecraft/textures/item/music_disc_estranheza.png)
+
+O Relógio Torto. ![Não é um disco](./custom_music_discs_rp/assets/minecraft/textures/item/music_disc_relogio.png)
+
+Para poder usá-las, coloque a pasta "custom_music_discs_rp" em pacotes de recursos, os discos e as músicas estarão lá. Se você não fizer isso, nem as músicas nem os novos discos aparecerão.
+
+Metálico: espada de alumínio e armadura de aço: têm o brilho de encantamento (mesmo sem ter um) para poderem ser distinguidas das outras armas e armadura de ferro.
+
 ### 1.4.4
 
 Adicionado Calculista (BETA).

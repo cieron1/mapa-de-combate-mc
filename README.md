@@ -15,7 +15,7 @@
 ## Recursos
 
 1. [Lutadores e Mapas](./Lutadores%20e%20Mapas.md)
-2. [Changelog](./Changelog.md)
+2. [Changelog](./CHANGELOG.md)
 
 ## A fazer
 
@@ -23,7 +23,7 @@
   - [X] Redstoner Alado
   - [x] Arvoresco
   - [x] Vivo
-  - [ ] Calculista
+  - [X] Calculista
   - [ ] Caçador Temporal
   - [ ] Animalesco
   - [ ] ???
@@ -41,7 +41,7 @@
   - [x] Tempo máximo de partida
   - [ ] Músicas
     - [x] Do jogo
-    - [ ] Minhas: 9/11
+    - [ ] Minhas: 11/12
   - [ ] Minigames
     - [x] Guerreiros da lava
     - [x] Matador de vacas

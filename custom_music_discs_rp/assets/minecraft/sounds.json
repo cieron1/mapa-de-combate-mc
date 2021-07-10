@@ -78,5 +78,32 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.estranheza": {
+    "sounds": [
+        {
+            "name": "records/estranheza",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.relogio": {
+    "sounds": [
+        {
+            "name": "records/relogio",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.derrota": {
+    "sounds": [
+        {
+            "name": "records/derrota",
+            "stream": true
+        }
+    ]
 }
 }

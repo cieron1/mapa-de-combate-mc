@@ -134,6 +134,39 @@
                             "tag": "{CustomModelData:9, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - 180 Segundos no Ceu\\\"\"]}}"
                         }
                     ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:10, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - A Estranheza Prevalece\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:11, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - O Relogio Torto\\\"\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:12, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Cieron - A Derrota do Tempo\\\"\"]}}"
+                        }
+                    ]
                 }
             ],
             "conditions": [

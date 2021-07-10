@@ -7,3 +7,6 @@ execute as @s[scores={heldDisc=6}] run function custom_music_discs_dp:play_caver
 execute as @s[scores={heldDisc=7}] run function custom_music_discs_dp:play_misterioarvore
 execute as @s[scores={heldDisc=8}] run function custom_music_discs_dp:play_astrosom
 execute as @s[scores={heldDisc=9}] run function custom_music_discs_dp:play_segundosceu
+execute as @s[scores={heldDisc=10}] run function custom_music_discs_dp:play_estranheza
+execute as @s[scores={heldDisc=11}] run function custom_music_discs_dp:play_relogio
+execute as @s[scores={heldDisc=12}] run function custom_music_discs_dp:play_derrota
