@@ -178,7 +178,7 @@ Vida:48, Dano:0.2, Velocidade:0.08, Velocidade de ataque:4, Resistência a repul
 ![Hotbar](./imagens/lutadores/Reds-hotbar.png)
 ![Redstoner](./imagens/lutadores/Reds.png)
 
-## 22. Calculista (BETA)
+## 22. Calculista
 
 #### Atributos:
 Vida:38, Dano:1, Velocidade:0.11, Velocidade de ataque:3.5, Resistência a repulsão:0.3 e Defesa:0.

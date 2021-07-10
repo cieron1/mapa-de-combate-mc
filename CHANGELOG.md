@@ -7,6 +7,7 @@ Adicionado Calculista, um lutador que envolve um pouco de chance e muitos númer
 ![Hotbar](./imagens/lutadores/Calc-hotbar.png)
 
 Adicionadas 2 novas músicas e uma correção da música Tic-tac-tic-tac.
+
 A Estranheza Prevalece; ![Disco](./custom_music_discs_rp/assets/minecraft/textures/item/music_disc_estranheza.png)
 
 O Relógio Torto. ![Não é um disco](./custom_music_discs_rp/assets/minecraft/textures/item/music_disc_relogio.png)
